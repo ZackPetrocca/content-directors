@@ -9,7 +9,12 @@ Home folder: `~/content-directors/`. It holds `about-me.md`, a `rulings/` folder
 
 ## Before anything else
 1. If `~/content-directors/research/` does not exist, say so in one line, run the normal version without it, and point me to the README for how to add it.
-2. If `~/content-directors/about-me.md` does not exist, interview me one question at a time and save it: my ideal customer, what I sell and for how much, results or proof I can show, the stories I tell most, how I talk (ask for 3 posts or a transcript), what I will not say or do, and what I want people to do after they see my content. If it exists, read it and skip the interview.
+2. If `~/content-directors/about-me.md` exists, read it and skip to the Steps. If it does not, build it research first:
+   - **Ask once** for my website and my social handles (Instagram, TikTok, YouTube, LinkedIn, any I use), in one message.
+   - **Research me.** Read my site (home, about, services or pricing, testimonials, blog). Search the web for my name and business: interviews, podcasts, reviews, press. Read whatever public posts, captions and video titles you can reach. If a platform blocks you, say which one and move on.
+   - **Draft `about-me.md`** with these sections, filling what the research supports: ideal customer, what I sell and for how much, proof and results, the stories I tell most, how I talk (with 3 to 5 short phrases I really use), what I will not say or do, what I want people to do after seeing my content, and what my content does well and badly today. Note the source for each fact and mark anything inferred as a guess.
+   - **Ask only what the research could not answer**, at most five questions, all in one message, each with your best guess so I can reply "yes" or correct it. Always confirm the price, the proof I can show publicly, and what I will not say.
+   - Save the final file and show me a five-line summary of it.
 
 ## How the research is used
 Before each director speaks in a session, read that seat's file once:

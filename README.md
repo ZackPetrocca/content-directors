@@ -18,7 +18,7 @@ ln -s ~/content-directors ~/.claude/skills/content-directors
 
 Restart Claude, then type `/content-directors`.
 
-The first run interviews you (who you sell to, what you sell, your proof, how you talk) and saves it to `~/content-directors/about-me.md`. After that it skips straight to the ideas.
+The first run asks for your website and social handles, researches you (your site, your posts, interviews and reviews), drafts a profile of who you sell to, what you sell, your proof and how you talk, then asks you only the few questions it could not answer. It saves the result to `~/content-directors/about-me.md`, and after that it skips straight to the ideas.
 
 Rather not use the terminal? Paste this into Claude Code: *"Clone https://github.com/ZackPetrocca/content-directors into ~/content-directors, link it as the skill ~/.claude/skills/content-directors, and show me how to start it."*
 
