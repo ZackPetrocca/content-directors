@@ -18,7 +18,7 @@ ln -s ~/content-directors ~/.claude/skills/content-directors
 
 Restart Claude, then type `/content-directors`.
 
-The first run asks for your website and social handles, researches you (your site, your posts, interviews and reviews), drafts a profile of who you sell to, what you sell, your proof and how you talk, then asks you only the few questions it could not answer. It saves the result to `~/content-directors/about-me.md`, and after that it skips straight to the ideas.
+The first run asks for your website and social handles and researches you: your site, your posts, interviews and reviews. It shows you what it found as short bullet lists to correct, asks only the few questions it could not answer, then writes two files: `about-me.md` (who you sell to, what you sell, your proof) and `brand-voice.md` (how you sound, phrases you use, words you avoid). Every idea and draft after that follows them.
 
 Rather not use the terminal? Paste this into Claude Code: *"Clone https://github.com/ZackPetrocca/content-directors into ~/content-directors, link it as the skill ~/.claude/skills/content-directors, and show me how to start it."*
 
@@ -87,7 +87,7 @@ content-directors/
     └── founder-time.md
 ```
 
-Your own `about-me.md` and `rulings/` folder are created next to these files on your computer. They are in `.gitignore`, so they never get pushed anywhere.
+Your own `about-me.md`, `brand-voice.md` and `rulings/` folder are created next to these files on your computer. They are in `.gitignore`, so they never get pushed anywhere.
 
 ## Make it yours
 

@@ -5,16 +5,27 @@ description: Use this to come up with content ideas, decide the right format, an
 
 # The Content Directors (research edition)
 
-Home folder: `~/content-directors/`. It holds `about-me.md`, a `rulings/` folder and a `research/` folder with one file per seat.
+Home folder: `~/content-directors/`. It holds `about-me.md`, `brand-voice.md`, a `rulings/` folder and a `research/` folder with one file per seat.
 
 ## Before anything else
 1. If `~/content-directors/research/` does not exist, say so in one line, run the normal version without it, and point me to the README for how to add it.
-2. If `~/content-directors/about-me.md` exists, read it and skip to the Steps. If it does not, build it research first:
-   - **Ask once** for my website and my social handles (Instagram, TikTok, YouTube, LinkedIn, any I use), in one message.
-   - **Research me.** Read my site (home, about, services or pricing, testimonials, blog). Search the web for my name and business: interviews, podcasts, reviews, press. Read whatever public posts, captions and video titles you can reach. If a platform blocks you, say which one and move on.
-   - **Draft `about-me.md`** with these sections, filling what the research supports: ideal customer, what I sell and for how much, proof and results, the stories I tell most, how I talk (with 3 to 5 short phrases I really use), what I will not say or do, what I want people to do after seeing my content, and what my content does well and badly today. Note the source for each fact and mark anything inferred as a guess.
-   - **Ask only what the research could not answer**, at most five questions, all in one message, each with your best guess so I can reply "yes" or correct it. Always confirm the price, the proof I can show publicly, and what I will not say.
-   - Save the final file and show me a five-line summary of it.
+2. If `~/content-directors/about-me.md` and `~/content-directors/brand-voice.md` both exist, read them and skip to the Steps. If not, build them research first, in three moves:
+
+   **a. Ask once** for my website and my social handles (Instagram, TikTok, YouTube, LinkedIn, any I use), in one message. Nothing else yet.
+
+   **b. Research me.** Read my site (home, about, services or pricing, testimonials, blog). Search the web for my name and business: interviews, podcasts, reviews, press. Read whatever public posts, captions, bios and video titles you can reach. If a platform blocks you, say which one and move on. Use subagents in parallel if you have them.
+
+   **c. Show me what you found, for correction.** One message, short bullets under these headings, each bullet marked with where it came from (site, Instagram, a podcast) or "guess":
+   - **About me:** who I am, what I sell and for how much, who it is for, proof and results, the stories I tell most, what I want people to do next.
+   - **Brand voice:** how I sound in three adjectives, sentence length and rhythm, 3 to 5 phrases I really use, words I avoid, how I open and close, what my best posts have in common.
+   - **Content today:** what works, what does not, formats and how often I post.
+   - **Questions:** only what the research could not answer, at most five, each with your best guess so I can reply "yes". Always confirm the price, the proof I can show publicly, and what I will not say or do.
+
+   I reply with corrections. Then write two files:
+   - `~/content-directors/about-me.md`: the business facts above, corrected.
+   - `~/content-directors/brand-voice.md`: the voice rules, with a short do and do not list and two or three real lines of mine as examples.
+
+   Show me both in a five-line summary each. From then on, every director, idea, shoot plan and draft follows these two files.
 
 ## How the research is used
 Before each director speaks in a session, read that seat's file once:
@@ -45,7 +56,7 @@ Offer a bench seat in one line when it fits. Do not seat one unasked unless I sa
 4. The Chair rules by `research/chair.md`: score out of 10 on hook, value, proof, next step, effort and fit; rule KEEP, RESHAPE or REJECT in one line; if RESHAPE rewrite the idea; if REJECT say what to make instead. Save the idea, scores and ruling to `~/content-directors/rulings/` with the date in the file name.
 5. Then ask, without waiting, whether to turn the keeper into the next asset.
    - Video: a one page shoot plan with six different opening lines in my voice, 3 to 5 points to say in order (not a script), where to stand, 3 to 5 b-roll shots, the one thing I ask viewers to do, and a time estimate.
-   - Post, carousel or text: a first draft in my voice. Mark anything you had to guess.
+   - Post, carousel or text: a first draft in my voice, following `brand-voice.md`. Mark anything you had to guess.
    After a video, tell me to film it and open the Video Editing playbook. After anything else, point me to the Content Board to approve and schedule it.
 
 ## Rules
