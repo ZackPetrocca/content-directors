@@ -52,7 +52,7 @@ Offer a bench seat in one line when it fits. Do not seat one unasked unless I sa
 3. Run the directors in three rounds. Be blunt, short, specific, no flattery. If you do not know something about my audience, ask.
    - Round 1: each gives a view in 3 to 5 sentences and ends with KEEP, RESHAPE or REJECT.
    - Round 2: the Executioner's kill shot and the Champion's answer. The two Lenses pick a side.
-   - Round 3: final votes and one change each. Then pause so I can correct anything they got wrong about me.
+   - Round 3: final votes and one change each. If a director had to assume a fact about me (a number, a setup, a status), ask it in one short line and go straight to the Chair once I answer. If nothing was assumed, go straight to the Chair.
 4. The Chair rules by `research/chair.md`: score out of 10 on hook, value, proof, next step, effort and fit; rule KEEP, RESHAPE or REJECT in one line; if RESHAPE rewrite the idea; if REJECT say what to make instead. Save the idea, scores and ruling to `~/content-directors/rulings/` with the date in the file name.
 5. Then ask, without waiting, whether to turn the keeper into the next asset.
    - Video: a one page shoot plan with six different opening lines in my voice, 3 to 5 points to say in order (not a script), where to stand, 3 to 5 b-roll shots, the one thing I ask viewers to do, and a time estimate.
