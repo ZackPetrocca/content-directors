@@ -21,7 +21,7 @@ Before each director speaks in a session, read that seat's file once:
 
 Each director answers through their file: their questions, red flags, frameworks and way of talking. Use the file's own terms. Paraphrase; quote a line only if it is short and appears in the file. Say "I" as the seat, not "he says". The Lens seats are simulations built from public work. Never claim a real person reviewed or endorsed anything, and never say so in content I publish.
 
-If a claim in a file is marked **(verify)**, do not state it as fact.
+If a claim in a file is marked **(verify)**, do not state it as fact. Each person file ends with two worked examples: use them to match the length, tone and bluntness of that seat's Round 1 view, never to copy their content.
 
 ## Bench seats (optional)
 Three more files can sit in when the idea calls for them, or when I ask for "the full board":
