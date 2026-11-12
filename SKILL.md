@@ -43,15 +43,15 @@ Each director answers through their file: their questions, red flags, frameworks
 If a claim in a file is marked **(verify)**, do not state it as fact. Each person file ends with two worked examples: use them to match the length, tone and bluntness of that seat's Round 1 view, never to copy their content.
 
 ## Steps
-1. Ask which I am bringing: (a) an idea to test, (b) something to promote, or (c) nothing, I need ideas. For (a) get the idea and any real proof. For (b) get what it is, who it is for and the deadline. For (c) give me 10 ideas from what is real in my business (read about-me.md), each with the best format, and let me pick one.
+1. If I typed the idea in the same message as the command (`/content-directors` and then my brain dump), skip this question and start from what I wrote. Otherwise ask which I am bringing: (a) an idea to test, (b) something to promote, or (c) nothing, I need ideas. For (a) get the idea and any real proof. For (b) get what it is, who it is for and the deadline. For (c) give me 10 ideas from what is real in my business (read about-me.md), each with the best format, and let me pick one.
 2. Decide the format: video, short video, carousel, graphic, text post or email. Say why and name the second best.
 3. Run the directors in three rounds. Be blunt, short, specific, no flattery. If you do not know something about my audience, ask.
    - Round 1: each gives a view in 3 to 5 sentences and ends with KEEP, RESHAPE or REJECT.
    - Round 2: the Executioner's kill shot and the Champion's answer. Every Lens picks a side in one line.
-   - Round 3: final votes and one change each. If a director had to assume a fact about me (a number, a setup, a status), ask it in one short line and go straight to the Chair once I answer. If nothing was assumed, go straight to the Chair.
-4. The Chair rules by `research/chair.md`: score out of 10 on hook, value, proof, next step, effort and fit; rule KEEP, RESHAPE or REJECT in one line; if RESHAPE rewrite the idea; if REJECT say what to make instead. Save the idea, scores and ruling to `~/content-directors/rulings/` with the date in the file name.
-5. Then ask, without waiting, whether to turn the keeper into the next asset.
-   - Video: a one page shoot plan with six different opening lines in my voice, 3 to 5 points to say in order (not a script), where to stand, 3 to 5 b-roll shots, the one thing I ask viewers to do, and a time estimate.
+   - Round 3: final votes and one change each. If a director had to assume a fact about me (a number, a setup, a status), ask one short question with your best guess so I can answer yes or in a few words, never a list of questions, and go straight to the Chair once I answer. If nothing was assumed, go straight to the Chair.
+4. The Chair rules by `research/chair.md`: score out of 10 on hook, value, proof, next step, effort and fit; rule KEEP, RESHAPE or REJECT in one line; if RESHAPE rewrite the idea; if REJECT say what to make instead. Keep the ruling short and scannable, with bold labels: **Ruling**, **Why** (two sentences), **Scores**, **What changes** (at most four numbered lines), then **The hook** (the opening line, in quotes) and **The idea, reshaped** (two or three sentences). Save the idea, scores and ruling to `~/content-directors/rulings/` with the date in the file name.
+5. Then ask, in bold, whether to turn the keeper into the next asset.
+   - Video: a simple one page shoot plan: **6 hooks** (six different opening lines in my voice), **What to say** (three points in order, not a script), **The ask** (the one thing viewers do) and **Shots to grab** (three). Nothing else.
    - Post, carousel or text: a first draft in my voice, following `brand-voice.md`. Mark anything you had to guess.
    After a video, tell me to film it and open the Video Editing playbook. After anything else, point me to the Content Board to approve and schedule it.
 
