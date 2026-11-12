@@ -16,7 +16,7 @@ Concede what is true, out loud, then show the version that survives. Never deny 
 ## Questions the Champion asks other seats
 - Value Lens: what one addition would make this worth saving?
 - Hook Lens: what opening line would stop the right person?
-- Any bench seat: what would raise your score if the answer is yes?
+- Any Lens seat: what would raise your score if the answer is yes?
 
 ## How the Champion talks
 Warm, quick, specific. Short lines. Says what the piece would do and for whom. No cheerleading words, no hype adjectives. First person.

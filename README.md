@@ -30,7 +30,7 @@ Rather not use the terminal? Paste this into Claude Code: *"Clone https://github
    - The **Champion** builds the strongest version using only what you really have.
    - The **Executioner** brings the single best reason it fails, and the cheapest test to prove it.
    - The **Value Lens** and **Hook Lens** pick a side.
-   - Bench seats (**Distribution**, **Remarkable**, **Founder-time**) sit in when the idea needs them, or when you ask for the full board.
+   - **Distribution**, **Remarkable** and **Founder-time** sit in every run too, so all eight seats weigh in without you asking.
 4. **The Chair rules.** Six scores out of 10, then one word.
 5. **You get the next asset:** a one-page shoot plan for a video (six opening lines, the points in order, b-roll, the ask) or a first draft for anything written.
 
@@ -57,9 +57,9 @@ Rulings are saved to `~/content-directors/rulings/` with the date, so you can lo
 | Value Lens | Alex Hormozi lens | Would the viewer feel silly not acting on this? | [`research/value-lens.md`](research/value-lens.md) |
 | Hook Lens | Sabri Suby lens | Would a stranger stop in three seconds, and what does it capture? | [`research/hook-lens.md`](research/hook-lens.md) |
 | Chair | Role seat | What is the ruling, and exactly what changes? | [`research/chair.md`](research/chair.md) |
-| Distribution (bench) | Gary Vaynerchuk lens | Where is the attention now, and can this be made in volume? | [`research/distribution.md`](research/distribution.md) |
-| Remarkable (bench) | Seth Godin lens | Is this worth remarking on, and who exactly is it for? | [`research/remarkable.md`](research/remarkable.md) |
-| Founder-time (bench) | Dan Martell lens | Whose calendar does this land on? | [`research/founder-time.md`](research/founder-time.md) |
+| Distribution | Gary Vaynerchuk lens | Where is the attention now, and can this be made in volume? | [`research/distribution.md`](research/distribution.md) |
+| Remarkable | Seth Godin lens | Is this worth remarking on, and who exactly is it for? | [`research/remarkable.md`](research/remarkable.md) |
+| Founder-time | Dan Martell lens | Whose calendar does this land on? | [`research/founder-time.md`](research/founder-time.md) |
 
 Each person file covers who they are and why they hold the seat, their core frameworks in their own terms, the questions they ask and the red flags they spot, how they talk, what they say about common content mistakes, two worked examples, where their lens misfires, and where to read or watch more.
 
