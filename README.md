@@ -32,7 +32,7 @@ Rather not use the terminal? Paste this into Claude Code: *"Clone https://github
    - The **Value Lens** and **Hook Lens** pick a side.
    - **Distribution**, **Remarkable** and **Founder-time** sit in every run too, so all eight seats weigh in without you asking.
 4. **The Chair rules.** Six scores out of 10, then one word.
-5. **You get the next asset:** a one-page shoot plan for a video (six opening lines, the points in order, b-roll, the ask) or a first draft for anything written.
+5. **You get the next asset:** a simple shoot plan for a video (6 hooks, three points to say, the ask, three shots) or a first draft for anything written.
 
 A ruling looks like this (a made-up example):
 
